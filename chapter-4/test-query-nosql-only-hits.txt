@@ -1,0 +1,1 @@
+[{'_index': 'users', '_type': 'doc', '_id': 'lVQlq34Bpu5uh9s9Bz4i', '_score': 5.661762, '_source': {'name': 'Logan Martinez', 'street': '9702 Barbara Greens', 'city': 'South Tasha', 'zip': '82334'}}]
